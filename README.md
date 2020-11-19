@@ -1,7 +1,14 @@
 <h3 align="center">Desafio</h3>
 <h5 align="center">Be Growth</h5>
 
+## Acessar projeto online
+<a href="https://begrowth.netlify.app" title="Desafio Be Growth" target="_blank">
+  Clique aqui para visualizar o Desafio Be Growth
+</a>
 
+<br><br>
+
+![layout](https://github.com/dhemesmota/begrowth/blob/main/.github/layout.PNG)
 
 
 ## :computer: Instruções de instalação
